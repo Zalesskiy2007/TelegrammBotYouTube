@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.6.7
+keyboa==2.2.7
+requests== 2.25.1
+youtube-data-api==0.0.20
